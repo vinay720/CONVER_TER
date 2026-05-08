@@ -7,7 +7,7 @@ def main():
     st.set_page_config(page_title="PragyanAI - VVIET Multimedia Hub", layout="wide")
     
     # Using photo2.jpg as the logo since it exists in your repository
-    st.image("photo2.jpg")
+    st.image("her.jpeg")
     
     st.title("PragyanAI Multi-Functional Media Hub")
     
